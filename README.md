@@ -3,7 +3,7 @@ Luanda, Angola
 morenoplays666@email.com  
 +244 922227142  
 GitHub: https://github.com/MorenoPlays  
-LinkedIn: https://ao.linkedin.com/in/emanuel-da-mata-805b89238  
+LinkedIn: www.linkedin.com/in/emanuel-da-mata-805b89238   
 
 ---
 
