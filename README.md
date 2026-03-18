@@ -3,7 +3,7 @@ Luanda, Angola
 morenoplays666@email.com  
 +244 922227142  
 GitHub: https://github.com/MorenoPlays  
-LinkedIn: www.linkedin.com/in/emanuel-da-mata-805b89238   
+LinkedIn: https://ao.linkedin.com/in/emanuel-da-mata-805b89238  
 
 ---
 
@@ -98,7 +98,8 @@ https://letifshop.ubipper.com/
 
 ## Formação
 
-### Common Core  
+### Common Core — 42  
+**2024 - 2026**
 - Programação em C  
 - Sistemas, sockets e processos  
 - Algoritmos e estruturas de dados  
@@ -106,6 +107,7 @@ https://letifshop.ubipper.com/
 
 ### Técnico Médio de Informática  
 Colégio Carvaju  
+**2019 - 2023**  
 
 ---
 
