@@ -100,10 +100,13 @@ https://letifshop.ubipper.com/
 
 ### Common Core — 42  
 **2024 - 2026**
-- Programação em C  
-- Sistemas, sockets e processos  
-- Algoritmos e estruturas de dados  
-- Gestão de containers com Docker e Docker Compose  
+- **Programação em C**: manipulação de memória, ponteiros, buffers, alocação dinâmica
+- **Programação em C++**: orientação a objetos, classes, herança, polimorfismo
+- **Sistemas operacionais**: processos, threads, sockets, pipes e IPC
+- **Algoritmos e estruturas de dados**: listas, árvores, grafos, sorting e searching
+- **Programação de rede**: protocolos TCP/IP, sockets, servidores concorrentes
+- **Gestão de containers**: Docker e Docker Compose
+- **Análise de complexidade**: Big O, otimização de código  
 
 ### Técnico Médio de Informática  
 Colégio Carvaju  
